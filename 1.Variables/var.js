@@ -18,4 +18,7 @@ console.log(typeof( surname));
 /* 
 Prefer not to use var
 because of issue in block scope and functional scope
+
+The main difference between the two is that let has a more limited scope than var . This means that a variable declared with let is only available within the block it was declared, whereas a variable declared with var is available anywhere within the current function. So it's best to use let 
 */
+

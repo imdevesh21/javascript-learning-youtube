@@ -13,19 +13,3 @@ console.table([Username,age,isUser])
 // null => undefined can be change
 // undefined => not defined
 // symbols => unique
-
-
-// 1. Primitive data type
-// 2. Non-Primitive data type
-// 1. Primitive data type
-// 1.1 Number
-// 1.2 String
-// 1.3 Boolean
-// 1.4 Null
-// 1.5 Undefined
-// 1.6 Symbol
-
-// 2. Non-Primitive data type
-// 2.1 Object
-// 2.2 Array
-// 2.3 Function
